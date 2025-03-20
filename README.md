@@ -1,5 +1,5 @@
 # Sarang Kale
-<br><br>
+<br>
 
 ## About Me
 👋 Hi, I’m Sarang Kale, a passionate Computer Science student at the University of Massachusetts Amherst with a focus on building innovative software solutions. With experience in full-stack development, research, and AI, I strive to leverage technology to tackle real-world challenges and drive meaningful impact.
@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔬 Conducted research on Large Language Models (LLMs)  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 Backend Developer Intern at GBCS  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in the 2023 UMass Hackathon
 <br><br><br>
 
@@ -22,7 +23,7 @@ and dynamic weather updates.
 • Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
 ### MinuteMunch (Hackathon Project)
 • Built a delivery system website for dining hall grab-and-go meals, enabling over 1500 students to receive food
-at their dorms instead of &nbsp;walking multiple miles. <br>
+at their dorms instead of &nbsp;&nbsp;walking multiple miles. <br>
 • Applied the UMass Dining API to salvage different menus of dining halls to allow users to compile orders.
 <br><br><br>
 
