@@ -14,16 +14,17 @@
 
 ## 📚 Featured Projects
 ### Weather Web App
-• Established a weather web application to display the weather of any city in the world at the current time. <br>
-• Leveraged the AccuWeather Locations API, efficiently integrating over 10,000 data points to provide accurate
-and dynamic weather updates.
-### Personal Blog Website
-• Developed a personal blog website to showcase personal hobbies and interests. <br>
-• Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
+- Established a weather web application to display the weather of any city in the world at the current time.
+- Leveraged the AccuWeather Locations API, efficiently integrating over 10,000 data points to provide accurate and dynamic weather updates.
 ### MinuteMunch (Hackathon Project)
-• Built a delivery system website for dining hall grab-and-go meals, enabling over 1500 students to receive food
-at their dorms instead of &nbsp;&nbsp;&nbsp;walking multiple miles. <br>
-• Applied the UMass Dining API to salvage different menus of dining halls to allow users to compile orders.
+- Built a delivery system website for dining hall grab-and-go meals, enabling over 1500 students to receive food at their dorms instead of walking multiple miles.
+- Applied the UMass Dining API to salvage different menus of dining halls to allow users to compile orders.
+### Personal Blog Website
+- Developed a personal blog website to showcase personal hobbies and interests.
+- Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
+### Evil Hangman
+- Designed a console hangman game that maintains a list of all words in the English dictionary and continuously removes words based on the user’s guess.
+- Implemented with a vector structure and an AVL tree to search for key letters.
 <br><br><br>
 
 
