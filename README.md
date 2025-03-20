@@ -6,10 +6,9 @@
 
 ### 🌟 Highlights:
 &nbsp;&nbsp;&nbsp;&nbsp;🔬 Conducted research on Large Language Models (LLMs)  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 Backend Developer Intern at GBCS  
-&nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in the 2023 UMass Hackathon
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 Backend Developer Intern at GBCS Group  
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
 <br><br><br>
 
 
@@ -23,7 +22,7 @@ and dynamic weather updates.
 • Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
 ### MinuteMunch (Hackathon Project)
 • Built a delivery system website for dining hall grab-and-go meals, enabling over 1500 students to receive food
-at their dorms instead of &nbsp;&nbsp;walking multiple miles. <br>
+at their dorms instead of &nbsp;&nbsp;&nbsp;walking multiple miles. <br>
 • Applied the UMass Dining API to salvage different menus of dining halls to allow users to compile orders.
 <br><br><br>
 
