@@ -6,8 +6,8 @@
 ### Highlights:
 🔬 Conducted research on Large Language Models (LLMs)  
 🚀 Backend Developer Intern at GBCS  
-![CodePath](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CodePath_Logo.svg/2560px-CodePath_Logo.svg.png) Completed the Advanced Technical Interview Prep Course at CodePath
-![HackUMass Logo](https://github.com/fuseumass/hackumass-website/blob/main/public/logo-universal.svg) Participated in the 2023 UMass Hackathon
+💻 Completed the Advanced Technical Interview Prep Course at CodePath
+<img src="https://github.com/fuseumass/hackumass-website/blob/main/public/logo-universal.svg" alt="HackUMass Logo" width="24" height="24"> Participated in the 2023 UMass Hackathon
 
 
 ## 📚 Featured Projects
