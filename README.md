@@ -10,9 +10,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
 <br><br>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarangkale)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangkale&layout=compact)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://readme-stats.vercel.app/api?username=sarangkale" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://readme-stats.vercel.app/api/top-langs/?username=sarangkale&layout=compact" alt="Top Langs">
+    </td>
+  </tr>
+</table>
 <br>
 
 
