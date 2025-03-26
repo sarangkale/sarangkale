@@ -25,7 +25,11 @@
 ### Evil Hangman
 - Designed a console hangman game that maintains a list of all words in the English dictionary and continuously removes words based on the user’s guess.
 - Implemented with a vector structure and an AVL tree to search for key letters.
-<br><br><br>
+<br>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sarangkale)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangkale&layout=compact)
+
+<br><br>
 
 
 ## 🌍 Let’s Connect
