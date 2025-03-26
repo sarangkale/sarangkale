@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-stats.vercel.app/api?username=sarangkale" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sarangkale" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://readme-stats.vercel.app/api/top-langs/?username=sarangkale&layout=compact" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangkale&layout=compact" alt="Top Langs">
     </td>
   </tr>
 </table>
