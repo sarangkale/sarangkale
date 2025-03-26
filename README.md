@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 Backend Developer Intern at GBCS Group  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
-<br><br>
+<br>
 <table>
   <tr>
     <td align="center">
