@@ -33,7 +33,7 @@
 ### <a href="https://github.com/sarangkale/djangoproject" target="_blank">Personal Blog Website</a>
 - Developed a personal blog website to showcase personal hobbies and interests.
 - Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
-### Evil Hangman
+### <a href="https://github.com/sarangkale/EvilHangman" target="_blank">Evil Hangman</a>
 - Designed a console hangman game that maintains a list of all words in the English dictionary and continuously removes words based on the user’s guess.
 - Implemented with a vector structure and an AVL tree to search for key letters.
 <br><br><br>
