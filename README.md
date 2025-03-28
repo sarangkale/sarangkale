@@ -24,13 +24,13 @@
 
 
 ## 📚 Featured Projects
-### Weather Web App
+### <a href="https://github.com/sarangkale/Web-App" target="_blank">Weather Web App</a>
 - Established a weather web application to display the weather of any city in the world at the current time.
 - Leveraged the AccuWeather Locations API, efficiently integrating over 10,000 data points to provide accurate and dynamic weather updates.
-### MinuteMunch (Hackathon Project)
+### <a href="https://github.com/Amandinh0/MinuteMunch" target="_blank">MinuteMunch (Hackathon Project)</a>
 - Built a delivery system website for dining hall grab-and-go meals, enabling over 1500 students to receive food at their dorms instead of walking multiple miles.
 - Applied the UMass Dining API to salvage different menus of dining halls to allow users to compile orders.
-### Personal Blog Website
+### <a href="https://github.com/sarangkale/djangoproject" target="_blank">Personal Blog Website</a>
 - Developed a personal blog website to showcase personal hobbies and interests.
 - Finalized and shared 5 blog posts that had over 100 users view, favorite, comment, and rate.
 ### Evil Hangman
