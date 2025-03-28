@@ -42,7 +42,7 @@
 ## 🌍 Let’s Connect
 I’m always excited to collaborate on impactful projects and discuss emerging trends in the world of technology.
 <br>
-**Website:** sarangkale.github.io
+**Website:** <a href="https://sarangkale.com/" target="_blank">https://sarangkale.com/</a>
 <br>
 <p>
   <a href="mailto:sarangkale04@gmail.com">
