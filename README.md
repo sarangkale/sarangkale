@@ -6,7 +6,7 @@
 
 ### 🌟 Highlights:
 &nbsp;&nbsp;&nbsp;&nbsp;🔬 Conducted research on Large Language Models (LLMs)  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 Software Engineering Intern at ZoomInfo
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 Software Engineering Intern at ZoomInfo  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
 <br>
