@@ -24,6 +24,10 @@
 
 
 ## 📚 Featured Projects
+### <a href="https://github.com/ZainubWaqas17/when3meet-front" target="_blank">When3Meet: Group Scheduling Application</a>
+- Developed a web-based scheduling app to simplify finding common meeting times for groups.
+- Implemented Google Calendar integration for automatic availability import and heatmap visualization for overlapping time slots.
+- Built with React, Node.js/Express, and MongoDB; deployed on Vercel with CI/CD pipeline.
 ### <a href="https://greenkalehomecare.com/" target="_blank">Green Kale Homecare Website</a>
 - Established an exterior home care business, delivering services to over 100 clients across Central Massachusetts and earning strong customer feedback.
 - Constructed a responsive website leveraging React for interactive front-end elements and Node.js with Express for reliable backend functionality.
