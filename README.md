@@ -28,9 +28,10 @@
 - Developed a web-based scheduling app to simplify finding common meeting times for groups.
 - Implemented Google Calendar integration for automatic availability import and heatmap visualization for overlapping time slots.
 - Built with React, Node.js/Express, and MongoDB; deployed on Vercel with CI/CD pipeline.
-### <a href="https://greenkalehomecare.com/" target="_blank">Green Kale Homecare Website</a>
-- Established an exterior home care business, delivering services to over 100 clients across Central Massachusetts and earning strong customer feedback.
-- Constructed a responsive website leveraging React for interactive front-end elements and Node.js with Express for reliable backend functionality.
+### <a href="https://github.com/sarangkale/BloomCare" target="_blank">BloomCare: Health Assistant Chatbot</a>
+- Developed a full-stack RAG-based health assistant for context-aware medical responses.
+- Fine-tuned Llama 3 on 500+ health conversations and embedded 300+ medical articles using ChromaDB.
+- Built with React, TypeScript, FastAPI, PostgreSQL, and Redis to support real-time, multi-turn dialogue with persistent sessions.
 ### <a href="https://github.com/sarangkale/Web-App" target="_blank">Weather Web App</a>
 - Established a weather web application to display the weather of any city in the world at the current time.
 - Leveraged the AccuWeather Locations API, efficiently integrating over 10,000 data points to provide accurate and dynamic weather updates.
