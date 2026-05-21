@@ -2,13 +2,15 @@
 <br>
 
 ## About Me
-👋 Hi, I’m Sarang Kale, a passionate Computer Science student at the University of Massachusetts Amherst with a focus on building innovative software solutions. With experience in full-stack development, research, and AI, I strive to leverage technology to tackle real-world challenges and drive meaningful impact.
+👋 I’m Sarang Kale, a Computer Science graduate from the University of Massachusetts Amherst Honors College, where I also completed a minor in Mathematics. I’m passionate about working with data and building software systems that turn information into meaningful, real-world impact. With experience in full-stack development, research, and data-focused work, I enjoy solving problems that sit at the intersection of software and data.
 
 ### 🌟 Highlights:
 &nbsp;&nbsp;&nbsp;&nbsp;🔬 Conducted research on Large Language Models (LLMs)  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 Previous Backend Developer Intern at GBCS  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
 &nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 UMass Amherst Computer Science Honors College Graduate
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Currently Working Data Integration at Ahold Delhaize
 <br>
 <table>
   <tr>
@@ -49,8 +51,6 @@
 
 ## 🌍 Let’s Connect
 I’m always excited to collaborate on impactful projects and discuss emerging trends in the world of technology.
-<br>
-**Website:** <a href="https://sarangkale.com/" target="_blank">https://sarangkale.com/</a>
 <br>
 <p>
   <a href="mailto:sarangkale04@gmail.com">
