@@ -8,9 +8,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔬 Conducted research on Large Language Models (LLMs)  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 Previous Backend Developer Intern at GBCS  
 &nbsp;&nbsp;&nbsp;&nbsp;💻 Completed the Advanced Technical Interview Prep Course at CodePath  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 UMass Amherst Computer Science Honors College Graduate
-&nbsp;&nbsp;&nbsp;&nbsp;💼 Currently Working Data Integration at Ahold Delhaize
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Participated in HackUMass 2023 (UMass Amherst 2023 Hackathon)  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 UMass Amherst Computer Science Honors College Graduate  
+&nbsp;&nbsp;&nbsp;&nbsp;💼 Currently Working Data Integration at Ahold Delhaize  
 <br>
 <table>
   <tr>
