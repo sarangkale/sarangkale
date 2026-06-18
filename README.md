@@ -46,6 +46,10 @@
 ### <a href="https://github.com/sarangkale/EvilHangman" target="_blank">Evil Hangman</a>
 - Designed a console hangman game that maintains a list of all words in the English dictionary and continuously removes words based on the user’s guess.
 - Implemented with a vector structure and an AVL tree to search for key letters.
+### <a href="https://github.com/ShahabKiyani/Honors_Thesis_Search_Engine_Evaluation" target="_blank">Honors Thesis (Search Engine Evaluation)</a>
+- Built a semantic search engine to compare traditional and AI-enhanced information retrieval systems.
+- Evaluated retrieval quality on the BEIR Natural Questions dataset using industry-standard IR metrics.
+- Investigated tradeoffs between relevance, explainability, and user preference as part of my honors thesis for UMass Amherst on the evolution of search.
 <br><br><br>
 
 
